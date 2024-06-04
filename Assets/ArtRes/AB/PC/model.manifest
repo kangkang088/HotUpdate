@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 3008322016
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bef0032031534d531009d6e57b5a9e46
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 081c2eef531aa0dde013a8fb11a7ad58
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: bef0032031534d531009d6e57b5a9e46
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ArtRes/Prefab/Plane.prefab
+- Assets/ArtRes/Prefab/Quad.prefab
+- Assets/ArtRes/Prefab/Cube.prefab
+- Assets/ArtRes/Prefab/Cylinder.prefab
+Dependencies: []
